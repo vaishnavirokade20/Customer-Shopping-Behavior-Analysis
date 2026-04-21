@@ -58,5 +58,5 @@ Power BI – Dashboard & data visualization
 
 Focus marketing on high-revenue segments
 
-
-
+## 📊 Dashboard Preview
+![Dashboard](Customer Dashboard.png)
