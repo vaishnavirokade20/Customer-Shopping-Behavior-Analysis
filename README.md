@@ -36,6 +36,9 @@ Power BI – Dashboard & data visualization
 
 -Shipping method analysis
 
+## 📊 Dashboard Preview
+![Dashboard](dashboard.png)
+
 📈 Key Insights
 
 -Male customers contributed ~68% of total revenue
@@ -58,5 +61,3 @@ Power BI – Dashboard & data visualization
 
 Focus marketing on high-revenue segments
 
-## 📊 Dashboard Preview
-![Dashboard](dashboard.png)
